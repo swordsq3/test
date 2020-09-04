@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <sourcemod>
 
 public void OnPluginStart()
 {
